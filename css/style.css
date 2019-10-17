@@ -5,3 +5,21 @@ body {
 .height {
   height: 100vh;
 }
+
+.title-underline {
+  width: 100px;
+  height: 5px;
+  margin: 0 auto;
+}
+.height-80 {
+  height: 80vh;
+}
+
+.about-picture {
+  background: url(../img/about-bcg.jpeg) center/cover no-repeat fixed;
+
+  /* background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; */
+}
